@@ -1,5 +1,6 @@
 # **Desafio de Projeto Modulo II**
-#### Desenvolvendo um menu hamburguer:hamburger: e morphing menu com CSS Transitions
+### :trophy:DIO - BOOTCAMP TQI :trophy:
+#### Desenvolvendo um menu hamburguer:hamburger: e morphing menu com CSS Transitions.
 
 Muito feliz por esta desenvolvendo e entregando o primeiro projeto feito com HTML e CSS
 
